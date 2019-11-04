@@ -12,3 +12,20 @@
 * jvm
 
 奋斗吧，骚年！
+
+
+
+
+quay.io/123network/k8s-netchecker-server:v1.0
+quay-io/123network/k8s-netchesker-agent:v1.0
+quay.io/coreos/etcd:v3.3.10-amd64
+docker.io/nfvpe/multus:v3.2.1
+quay-io/coreos/flannel-cni:v0.3.0
+gcr.io/google_containers/pause-amd64:3.1
+docker.io/xueshanf/install-sosat:latest
+docker.io/library/nginx:1.17
+docker.io/library/naproxx:1.9
+gcr.io/google-containers/k8s-dna-node-cache:1.15.5
+docker.io/library/registry:2.6
+gcr.io/google_containers/kube-registry-proxy:0.4
+
