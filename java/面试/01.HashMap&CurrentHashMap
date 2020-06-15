@@ -1,0 +1,13 @@
+# HashMap&CurrentHashMap
+
+## HashMap
+
+HashMap的结构是“数组+链表”的结构方式，不过在 jdk1.7 和 1.8 中具体实现稍有不同。
+
+## CurrentHashMap
+
+## 问题
+
+### HashMap为什么线程不安全？
+
+### CurrentHashMap为什么线程安全？
